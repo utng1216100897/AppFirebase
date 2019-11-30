@@ -1,0 +1,20 @@
+
+<resources>
+    <string name="app_name">FireBaseApp</string>
+
+    <string-array name="carreras">
+        <item>Bueno</item>
+        <item>Regular</item>
+        <item>Malo</item>
+    </string-array>
+
+    <string-array name="materias">
+        <item>Italiana</item>
+        <item>Inglesa</item>
+        <item>Mexicana</item>
+    </string-array>
+
+    <string name="tema">Ingresar equipo del dia</string>
+    <string name="registro">Registrar equipo</string>
+</resources>
+
